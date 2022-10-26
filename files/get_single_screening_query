@@ -1,0 +1,1 @@
+jdbcTemplate.queryForObject(sql, new Object[]{patientId}, new ScreeningRowMapper());

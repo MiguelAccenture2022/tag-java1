@@ -1,0 +1,1 @@
+jdbcTemplate.query(sql, new ScreeningRowMapper());
